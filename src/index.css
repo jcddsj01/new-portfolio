@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Configurações gerais */
+
+/* Variáveis CSS */
+:root {
+  --color-background: #252628;
+  --color-text-primary: #e7e7e7;
+  --font-primary: 'Josefin Sans', sans-serif;
+}
+
+/* Animações */
+/* Inicio - Efeito de float da foto de perfil */
+@keyframes profile-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+/* Base Styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Definição da rolagem suave */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Definição das cores no corpo */
+body {
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+  font-family: var(--font-primary);
+}

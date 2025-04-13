@@ -1,0 +1,47 @@
+{
+    "header": {
+        "about": "About me",
+        "skills": "Skills",
+        "projects": "My Projects",
+        "resume": "Resume"
+    },
+    "home": {
+        "greeting": "Hello, I'm",
+        "developer": "José Carlos",
+        "job": "Full-Stack Developer",
+        "contact": "Contact me"
+    },
+    "about": {
+        "title": "About me",
+        "content": "Hello, welcome to my professional portfolio. I'm José Carlos, a Full-Stack Developer who loves programming and software development. Although I don't yet have experience in companies, I share my knowledge, projects and skills acquired as a developer. I'm looking for an opportunity to apply my skills and grow professionally. I am very interested in participating in collaborative projects to develop communication, problem-solving and teamwork. Feel free to explore my projects and follow my progress in software development."
+    },
+    "skills": {
+        "title": "Hard Skills",
+        "content": "Here are the technical skills I've acquired along my journey as a developer, as well as those I keep improving. If you want to know more about these technologies, click on the image to be redirected to the official page."
+    },
+    "projects": {
+        "title": "My Projects",
+        "content": "I present the main projects I have developed during my career as a developer. I'm always looking for new challenges and opportunities to learn and grow as a developer. I will be constantly updating this list with new projects and acquisitions of skills and technologies.",
+        "button-access": "Access"
+    },
+    "resume": {
+        "title": "Resume",
+        "content": "If you'd like to see a summary of my professional career and the courses I've completed, download my CV.",
+        "button-download": "Download"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "content": "Would you like to talk to me? Do you have any questions? Fill in your details below and I'll get back to you as soon as possible.",
+        "form-title": "Contact form",
+        "label-name": "Name",
+        "input-placeholder-name": "Enter your name",
+        "label-message": "Message",
+        "input-placeholder-message": "Enter your message",
+        "button-send": "Send message"
+        
+    },
+    "footer": {
+        "title": "2025 - José Carlos | Full-Stack Developer Portfolio. All rights reserved.",
+        "sub-title": "Connect with me"
+    }
+}

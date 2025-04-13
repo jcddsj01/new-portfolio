@@ -1,0 +1,100 @@
+{
+    "header": {
+        "about": "Sobre mim",
+        "skills": "Habilidades",
+        "projects": "Meus Projetos",
+        "resume": "Currículo"
+    },
+    "home": {
+        "greeting": "Olá, sou",
+        "developer": "José Carlos",
+        "job": "Desenvolvedor Full-Stack",
+        "contact": "Contate-me"
+    },
+    "about": {
+        "title": "Sobre mim",
+        "content": "Olá, seja bem-vindo(a) ao meu portfólio profissional. Sou, José Carlos um Desenvolvedor Full-Stack que gosta muito de programação e desenvolvimento de software. Embora ainda não tenha experiência em empresas, compartilho meu conhecimento, projetos e habilidades adquiridas como desenvolvedor. Estou em busca de uma oportunidade para aplicar minhas competências e crescer profissionalmente. Tenho grande interesse em participar de projetos colaborativos para desenvolver comunicação, resolução de problemas e trabalho em equipe. Fique à vontade para explorar meus projetos e acompanhar minha evolução no desenvolvimento de software."
+    },
+    "skills": {
+        "title": "Habilidades Técnicas",
+        "content": "Aqui estão as habilidades técnicas que adquiri ao longo da minha jornada como desenvolvedor, além daquelas que sigo aprimorando continuamente. Se quiser saber mais sobre essas tecnologias, clique na imagem para ser redirecionado à página oficial."
+    },
+    "projects": {
+        "title": "Meus Projetos",
+        "content": "Apresento os principais projetos que desenvolvi durante minha trajetória como desenvolvedor. Estou sempre procurando novos desafios e oportunidades para aprender e crescer como desenvolvedor. Estarei constantemente atualizando esta lista com novos projetos e aquisições de habilidades e tecnologias.",
+        "button-access": "Acessar",
+        "descriptions": {
+            "1": {
+                "title": "Gerenciador de Finanças",
+                "text": "É uma ferramenta de gestão financeira pessoal que permite registrar receitas e despesas, calcular o saldo e editar informações facilmente. Os usuários podem adicionar detalhes como descrição e valor de forma prática."
+            },
+            "2": {
+                "title": "Cálculo IMC",
+                "text": "É uma calculadora que, com base na altura e peso informados, calcula e classifica o índice conforme padrões de saúde. Ele ajuda no monitoramento do peso corporal de forma simples e prática."
+            },
+            "3": {
+                "title": "Calculadora de Juros Compostos",
+                "text": "É uma ferramenta que permite calcular o crescimento de um valor inicial ao longo do tempo, considerando juros aplicados sobre o montante acumulado. Ela ajuda a estimar investimentos, empréstimos e rendimentos financeiros."
+            },
+            "4": {
+                "title": "Previsão do Tempo",
+                "text": "Este projeto acessa informações da previsão do tempo por meio de uma API externa da OpenWeather. É um projeto simples, com design amigável, estrutura organizada, responsivo e seguindo o padrão clean code."
+            },
+            "5": {
+                "title": "Conversor de Moedas",
+                "text": "Este projeto foi criado para oferecer uma ferramenta de conversão de moeda usando a API da ExchangeRate-API. Ele permite que os usuários convertam de USD para BRL com facilidade, inserindo o valor e clicando em um botão. O projeto é bem estruturado, possui um estilo simples e segue os padrões de código limpo."
+            },
+            "6": {
+                "title": "Formulário com Validação",
+                "text": "O código permite que os usuários preencham um formulário com informações como nome completo, e-mail, senha e confirmação de senha. Ele realiza verificações para assegurar que os dados estejam corretos e no formato adequado, melhorando a precisão das informações enviadas. O design do site prioriza a experiência do usuário, tornando o preenchimento do formulário amigável e fácil."
+            },
+            "7": {
+                "title": "Lista de Tarefas",
+                "text": "O site foi desenvolvido para oferecer aos usuários uma experiência agradável, permitindo a criação de listas de tarefas para lembretes futuros. O projeto apresenta um design atraente, é bem estruturado e se adapta a diferentes dispositivos."
+            },
+            "8": {
+                "title": "Encurtador de Link",
+                "text": "Esse projeto foi criado para proporcionar aos usuários uma experiência agradável ao encurtar links HTTPS por meio de uma API. Ele possui um design atrativo, é bem estruturado e responsivo em vários dispositivos."
+            },
+            "9": {
+                "title": "Doom Patrol",
+                "text": "O código cria uma página web com uma lista de personagens do universo Doom Patrol e exibe informações sobre o personagem selecionado. A partir dessa estrutura básica, é possível adicionar mais funcionalidades e estilizar a página conforme necessário."
+            },
+            "10": {
+                "title": "Yu Yu Hakusho",
+                "text": "O código cria uma página web com uma lista de personagens do universo Yu Yu Hakusho e exibe informações sobre o personagem selecionado. A partir dessa estrutura básica, é possível adicionar mais funcionalidades e estilizar a página conforme necessário."
+            },
+            "11": {
+                "title": "Dev Barber - Sua Barbearia!",
+                "text": "É um site para salão de barbearia fictício, fornecendo detalhes sobre os serviços oferecidos, uma galeria de fotos atrativa e a capacidade para os visitantes agendarem horários. Em essência, a finalidade do site é promover o salão de barbearia, destacando seus serviços e simplificando o processo de contato com os clientes."
+            },
+            "12": {
+                "title": "InDecor",
+                "text": "Essa landing page foi criada para um evento de aprendizado sobre decoração de interiores. Ela possui uma estrutura bem organizada, estilos atraentes e é totalmente responsiva. O código segue o padrão clean code."
+            },
+            "13": {
+                "title": "IT Solutions",
+                "text": "O site foi criado para proporcionar uma experiência agradável aos usuários. Apresenta a empresa fictícia IT Solutions com design atrativo, estruturado e responsivo em diversos dispositivos."
+            }
+        }
+    },
+    "resume": {
+        "title": "Currículo",
+        "content": "Caso tenha interesse em conhecer um resumo da minha trajetória profissional e dos cursos que concluí, faça o download do meu currículo.",
+        "button-download": "Download"
+    },
+    "contact": {
+        "title": "Contate Me",
+        "content": "Gostaria de conversar comigo? Tem alguma dúvida? Preencha os campos abaixo com suas informações, e entrarei em contato o mais breve possível.",
+        "form-title": "Formulário de contato",
+        "label-name": "Nome",
+        "input-placeholder-name": "Digite seu nome",
+        "label-message": "Mensagem",
+        "input-placeholder-message": "Digite sua mensagem",
+        "button-send": "Enviar Mensagem"
+    },
+    "footer": {
+        "title": "2025 - José Carlos | Portfólio de Desenvolvedor Full-Stack. Todos os direitos reservados.",
+        "sub-title": "Conecte-se comigo"
+    }
+}
