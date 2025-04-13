@@ -10,7 +10,7 @@ function Contact() {
     const sendMessage = (event) => {
         event.preventDefault();
 
-        const phoneNumber = import.meta.env.VITE_PHONE_NUMBER;
+        const phoneNumber = "5547984655836";
         const fullMessage = `Olá, tudo bem? Me chamo ${name} e sou recrutador(a).\n${message}`;
         const encodeMessage = encodeURIComponent(fullMessage);
         const URL = `https://wa.me/${phoneNumber}?text=${encodeMessage}`;
