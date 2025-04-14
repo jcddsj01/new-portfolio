@@ -27,7 +27,7 @@ Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de 
 ## 📸 Screenshots
 <div align="center">
   <h3>Versão para Desktop</h3>
-  <img src="./public/screenshots/portuguese/versao-desktop.png" alt="portfolio-desktop" style="width: 700px; hight: auto;" />
+  <img src="./public/screenshots/portuguese/versao-desktop.png" alt="portfolio-desktop" style="width: 800px; hight: auto;" />
 </div>
 <br>
 
