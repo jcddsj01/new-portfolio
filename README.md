@@ -126,19 +126,19 @@ This is my personal portfolio developed with React and Vite, with the aim of pre
 ## 📸 Screenshots
 <div align="center">
   <h3>Desktop version</h3>
-  <img src="./public/screenshots/english/desktop-version.png" alt="portfolio-desktop" style="width: 60%; hight: auto;" />
+  <img src="./public/screenshots/english/desktop-version.png" alt="portfolio-desktop" style="width: 800px; hight: auto;" />
 </div>
 <br>
 
 <div align="center">
   <h3>Tablet version</h3>
-  <img src="./public/screenshots/english/responsive-tablet-version.png" alt="portfolio-desktop" style="width: 25%; hight: auto;" />
+  <img src="./public/screenshots/english/responsive-tablet-version.png" alt="portfolio-desktop" style="width: 300px; hight: auto;" />
 </div>
 <br>
 
 <div align="center">
   <h3>Mobile version</h3>
-  <img src="./public/screenshots/english/responsive-mobile-version.png" alt="portfolio-desktop" style="width: 15%; hight: auto;" />
+  <img src="./public/screenshots/english/responsive-mobile-version.png" alt="portfolio-desktop" style="width: 200px; hight: auto;"/>
 </div>
 
 ##  How to run the project locally
