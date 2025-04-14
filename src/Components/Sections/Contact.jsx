@@ -22,8 +22,8 @@ function Contact() {
     };
 
     return (
-        <section className="mx-[30px] mb-[150px]" id="whatsappContactForm">
-            <div className='mb-15'>
+        <section className="mb-[150px]" id="whatsappContactForm">
+            <div className='mb-15 mx-[30px]'>
                 <h1 className='uppercase rounded-[2px_2px_2px_30px] font-bold text-gray-50 p-4 bg-gradient-to-r from-orange-600 text-lg to-neutral-800 shadow-[0_2px_5px_rgba(0,0,0,0.3)]'>
                     {translate("contact.title")}
                 </h1>
@@ -32,7 +32,7 @@ function Contact() {
                 </p>
             </div>
 
-            <div className='flex justify-center mt-12'>
+            <div className='flex justify-center mt-12 mx-full sm:mx-[30px]'>
                 <div className="bg-gradient-to-r from-black/30 to-[#252628]/30 rounded-[2px_2px_2px_30px] max-w-[520px] w-full mx-auto shadow-[0_2px_5px_rgba(0,0,0,0.9)] flex flex-col justify-center">
                     <header className="bg-gradient-to-r from-orange-600 text-lg to-neutral-800 text-gray-50 font-bold uppercase rounded-[2px_2px_0_0] text-center p-[15px_0]">{translate("contact.form-title")}</header>
 
