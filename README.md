@@ -27,19 +27,19 @@ Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de 
 ## 📸 Screenshots
 <div align="center">
   <h3>Versão para Desktop</h3>
-  <img src="./public/screenshots/portuguese/versao-desktop.png" alt="portfolio-desktop" style="width: 60%; hight: auto;" />
+  <img src="./public/screenshots/portuguese/versao-desktop.png" alt="portfolio-desktop" style="width: 650px; hight: auto;" />
 </div>
 <br>
 
 <div align="center">
   <h3>Versão para Tablet</h3>
-  <img src="./public/screenshots/portuguese/versao-responsiva-tablet.png" alt="portfolio-desktop" style="width: 25%; hight: auto;" />
+  <img src="./public/screenshots/portuguese/versao-responsiva-tablet.png" alt="portfolio-desktop" style="width: 250px; hight: auto;" />
 </div>
 <br>
 
 <div align="center">
   <h3>Versão para Mobile</h3>
-  <img src="./public/screenshots/portuguese/versao-responsiva-mobile.png" alt="portfolio-desktop" style="width: 15%; hight: auto;" />
+  <img src="./public/screenshots/portuguese/versao-responsiva-mobile.png" alt="portfolio-desktop" style="width: 150px; hight: auto;" />
 </div>
 
 ##  Como rodar o projeto localmente
