@@ -1,5 +1,6 @@
 import { useI18n } from "../../i18n";
 import { Download } from 'lucide-react';
+import resume from '../../../public/curriculo/curriculo-jose-carlos.pdf';
 
 function Resume() {
     const { translate } = useI18n();
@@ -14,7 +15,7 @@ function Resume() {
             </p>
 
             <div className='flex justify-left items-center'>
-                <a className="flex items-center justify-center gap-3 font-semibold uppercase bg-gradient-to-r from-orange-600 text-base to-neutral-800 text-gray-50 cursor-pointer py-3 px-7 mb-7 mt-8 rounded-[2px_2px_2px_30px] shadow-[0_2px_5px_rgba(0,0,0,0.3)] hover:bg-gradient-to-r hover:from-orange-600 hover:to-orange-600 hover:shadow-[0_0_20px_rgba(255,68,0,0.3)] transition-all duration-200" href="../../../public/curriculo/curriculo-jose-carlos.pdf" target="_blank"
+                <a className="flex items-center justify-center gap-3 font-semibold uppercase bg-gradient-to-r from-orange-600 text-base to-neutral-800 text-gray-50 cursor-pointer py-3 px-7 mb-7 mt-8 rounded-[2px_2px_2px_30px] shadow-[0_2px_5px_rgba(0,0,0,0.3)] hover:bg-gradient-to-r hover:from-orange-600 hover:to-orange-600 hover:shadow-[0_0_20px_rgba(255,68,0,0.3)] transition-all duration-200" href={resume} target="_blank"
   rel="noopener noreferrer" download="Currículo - José Carlos">
                 {translate("resume.button-download")}
                 <Download className="w-5 h-5 flex-shrink-0" />
