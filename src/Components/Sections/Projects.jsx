@@ -18,8 +18,8 @@ function Projects() {
   // Lista de projetos com as chaves das imagens
   const projects = [
     {
-      image: LoadProjectImage('gerenciador-de-financas'),
-      link: "https://github.com/jcddsj01/gerenciador-financas"
+      image: LoadProjectImage('icode-box'),
+      link: "https://github.com/jcddsj01/app-icode-box"
     },
     {
       image: LoadProjectImage('calculo-do-imc'),
@@ -50,24 +50,20 @@ function Projects() {
       link: "https://github.com/jcddsj01/encurtador-link"
     },
     {
-      image: LoadProjectImage('doom-patrol'),
-      link: "https://github.com/jcddsj01/doom-patrol-szpc"
-    },
-    {
-      image: LoadProjectImage('yu-yu-hakusho'),
-      link: "https://github.com/jcddsj01/yu-yu-hakusho-szpc"
-    },
-    {
       image: LoadProjectImage('barber-dev'),
       link: "https://github.com/jcddsj01/barber-dev"
     },
     {
-      image: LoadProjectImage('landing-page-indecor'),
+      image: LoadProjectImage('indecor'),
       link: "https://github.com/jcddsj01/landing-page-indecor"
     },
     {
       image: LoadProjectImage('it-solutions'),
       link: "https://github.com/jcddsj01/site-it-solutions"
+    },
+    {
+      image: LoadProjectImage('gerenciador-de-financas'),
+      link: "https://github.com/jcddsj01/gerenciador-financas"
     },
   ];
 

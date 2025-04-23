@@ -25,8 +25,8 @@
         "button-access": "Acessar",
         "descriptions": {
             "1": {
-                "title": "Gerenciador de Finanças",
-                "text": "É uma ferramenta de gestão financeira pessoal que permite registrar receitas e despesas, calcular o saldo e editar informações facilmente. Os usuários podem adicionar detalhes como descrição e valor de forma prática."
+                "title": "iCode Box",
+                "text": "É uma ferramenta que permite gerar e validar CPF e CNPJ com base nas entradas fornecidas pelo usuário."
             },
             "2": {
                 "title": "Cálculo IMC",
@@ -57,24 +57,20 @@
                 "text": "Esse projeto foi criado para proporcionar aos usuários uma experiência agradável ao encurtar links HTTPS por meio de uma API. Ele possui um design atrativo, é bem estruturado e responsivo em vários dispositivos."
             },
             "9": {
-                "title": "Doom Patrol",
-                "text": "O código cria uma página web com uma lista de personagens do universo Doom Patrol e exibe informações sobre o personagem selecionado. A partir dessa estrutura básica, é possível adicionar mais funcionalidades e estilizar a página conforme necessário."
-            },
-            "10": {
-                "title": "Yu Yu Hakusho",
-                "text": "O código cria uma página web com uma lista de personagens do universo Yu Yu Hakusho e exibe informações sobre o personagem selecionado. A partir dessa estrutura básica, é possível adicionar mais funcionalidades e estilizar a página conforme necessário."
-            },
-            "11": {
                 "title": "Dev Barber - Sua Barbearia!",
                 "text": "É um site para salão de barbearia fictício, fornecendo detalhes sobre os serviços oferecidos, uma galeria de fotos atrativa e a capacidade para os visitantes agendarem horários. Em essência, a finalidade do site é promover o salão de barbearia, destacando seus serviços e simplificando o processo de contato com os clientes."
             },
-            "12": {
+            "10": {
                 "title": "InDecor",
                 "text": "Essa landing page foi criada para um evento de aprendizado sobre decoração de interiores. Ela possui uma estrutura bem organizada, estilos atraentes e é totalmente responsiva. O código segue o padrão clean code."
             },
-            "13": {
+            "11": {
                 "title": "IT Solutions",
                 "text": "O site foi criado para proporcionar uma experiência agradável aos usuários. Apresenta a empresa fictícia IT Solutions com design atrativo, estruturado e responsivo em diversos dispositivos."
+            },
+            "12": {
+                "title": "Gerenciador de Finanças",
+                "text": "É uma ferramenta de gestão financeira pessoal que permite registrar receitas e despesas, calcular o saldo e editar informações facilmente. Os usuários podem adicionar detalhes como descrição e valor de forma prática."
             }
         }
     },

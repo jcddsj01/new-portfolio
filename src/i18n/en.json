@@ -22,7 +22,57 @@
     "projects": {
         "title": "My Projects",
         "content": "I present the main projects I have developed during my career as a developer. I'm always looking for new challenges and opportunities to learn and grow as a developer. I will be constantly updating this list with new projects and acquisitions of skills and technologies.",
-        "button-access": "Access"
+        "button-access": "Access",
+        "descriptions": {
+            "1": {
+                "title": "iCode Box",
+                "text": "It is a tool that allows you to generate and validate CPF and CNPJ based on the inputs provided by the user."
+            },
+            "2": {
+                "title": "BMI calculation",
+                "text": "It is a calculator which, based on the height and weight entered, calculates and classifies the index according to health standards. It helps to monitor body weight in a simple and practical way."
+            },
+            "3": {
+                "title": "Compound Interest Calculator",
+                "text": "It is a tool that allows you to calculate the growth of an initial amount over time, taking into account interest applied to the accumulated amount. It helps to estimate investments, loans and financial returns."
+            },
+            "4": {
+                "title": "Weather Forecast",
+                "text": "This project accesses weather forecast information via an external OpenWeather API. It's a simple project, with a user-friendly design, organized structure, responsive and following the clean code standard."
+            },
+            "5": {
+                "title": "Currency Converter",
+                "text": "This project was created to offer a currency conversion tool using the ExchangeRate-API. It allows users to convert from USD to BRL easily by entering the amount and clicking a button. The project is well structured, has a simple style and follows clean code standards."
+            },
+            "6": {
+                "title": "Form with Validation",
+                "text": "The code allows users to fill in a form with information such as their full name, e-mail address, password and password confirmation. It carries out checks to ensure that the data is correct and in the right format, improving the accuracy of the information submitted. The site's design prioritizes the user experience, making filling in the form friendly and easy."
+            },
+            "7": {
+                "title": "Task list",
+                "text": "The site was developed to offer users a pleasant experience, allowing them to create to-do lists for future reminders. The project has an attractive design, is well structured and adapts to different devices."
+            },
+            "8": {
+                "title": "Link Shortener",
+                "text": "This project was created to provide users with a pleasant experience when shortening HTTPS links via an API. It has an attractive design, is well structured and responsive on various devices."
+            },
+            "9": {
+                "title": "Dev Barber - Your Barbershop!",
+                "text": "It's a website for a fictional barbershop, providing details of the services offered, an attractive photo gallery and the ability for visitors to book appointments. In essence, the purpose of the site is to promote the barbershop, highlighting its services and simplifying the process of contacting clients."
+            },
+            "10": {
+                "title": "InDecor",
+                "text": "This landing page was created for an interior design learning event. It has a well-organized structure, attractive styles and is fully responsive. The code follows the clean code standard."
+            },
+            "11": {
+                "title": "IT Solutions",
+                "text": "The site was created to provide a pleasant experience for users. It presents the fictional company IT Solutions with an attractive, structured and responsive design for different devices."
+            },
+            "12": {
+                "title": "Finance Manager",
+                "text": "It is a personal financial management tool that allows you to record income and expenses, calculate the balance and edit information easily. Users can add details such as description and amount in a practical way."
+            }
+        }
     },
     "resume": {
         "title": "Resume",
