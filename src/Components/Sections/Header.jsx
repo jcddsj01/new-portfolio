@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Languages } from "lucide-react";
 import FlagLanguageBrazil from "../../assets/languages-flags/portuguese-brazil.png";
 import FlagLanguageEnglish from "../../assets/languages-flags/english.png";
@@ -7,6 +7,16 @@ import { useI18n } from "../../i18n";
 export default function Header() {
   const {language, translate, setLanguage} = useI18n();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isHeaderFixed, setIsHeaderFixed] = useState(false);
+
+  const handleScroll = () => {
+    setIsHeaderFixed(window.scrollY > 50);
+  };
+  
+  useEffect(() => {
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const toggleMenu = () => {
     setIsMenuOpen((prev) => !prev);
@@ -47,11 +57,13 @@ export default function Header() {
   ]
 
   return (
-    <header className={`flex w-full justify-center items-center bg-black/50 shadow-[0_2px_5px_rgba(0,0,0,0.3)] text-gray-50 relative transition-all duration-300 ${isMenuOpen ? "h-screen" : "h-20"}`}>
-      <nav className="">
+    <header className={`rounded-[2px] flex w-full h-14 lg:h-20 justify-center items-center z-10 shadow-[0_2px_5px_rgba(0,0,0,0.3)] text-gray-50 transition-all duration-300
+      ${isMenuOpen ? "h-screen bg-black" : ""}
+      ${isHeaderFixed ? "fixed top-0 bg-black/90 w-[calc(100%-2rem)] m-4" : "relative bg-black/50"}`}>
+      <nav>
         <button
           onClick={toggleMenu}
-          className={`absolute sm:hidden z-50 top-8 right-8 flex flex-col justify-center items-center transition-all duration-300 ease-in-out
+          className={`absolute sm:hidden z-50 top-5 right-4 flex flex-col justify-center items-center transition-all duration-300 ease-in-out
             ${isMenuOpen ? "gap-[4px]" : "gap-[6px]"}`}
           aria-label="Menu"
         >

@@ -1,4 +1,4 @@
-import logoPerfil from '../../assets/profile/jose-carlos.png';
+import logoPerfil from '../../assets/profile/logo.png';
 import { CodeXml } from 'lucide-react';
 import { useI18n } from "../../i18n";
 
@@ -7,11 +7,13 @@ function Home() {
 
   return (
     <section className="flex justify-center items-center flex-col mt-16 mb-32">
-      <img
-        src={logoPerfil}
-        alt=""
-        className="w-44 h-44 rounded-full object-contain border-[4px] bg-white border-solid border-gray-300 shadow-[0_0_20px_rgba(255,68,0,0.3)] animate-[profile-float_5s_ease-in-out_infinite]"
-      />
+      <div className="w-40 h-48 overflow-hidden rounded-full shadow-[0_10px_20px_rgba(0,0,0,1)] animate-[profile-float_5s_ease-in-out_infinite]">
+        <img
+          src={logoPerfil}
+          alt="Foto de perfil"
+          className="w-full h-full object-cover object-top"
+        />
+      </div>
       <h1 className="text-lg font-medium text-gray-50 mt-4 mb-1 uppercase">
         {translate("home.greeting")} <span className='font-bold text-orange-600 text-xl'>{translate("home.developer")}</span>
       </h1>
