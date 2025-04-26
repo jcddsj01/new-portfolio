@@ -18,6 +18,7 @@ Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de 
 - CSS: Linguagem de estilo para o conteúdo da web.
 - TailwindCSS: Framework utilitário para estilização rápida e responsiva.
 - JavaScript (ES6+): Linguagem de programação utilizada para adicionar interatividade ao site.
+- TypeScript: Foi criado um contexto de internacionalização (i18n) em React para gerenciar a troca de idioma e tradução dinâmica de textos entre português e inglês.
 - Node.js: Ambiente de execução JavaScript do lado do servidor, utilizado para criar aplicações backend escaláveis e performáticas.
 - React: Biblioteca JavaScript para construção de interfaces de usuário.​
 - Vite: Ferramenta de build rápida e moderna para projetos front-end.
@@ -117,6 +118,7 @@ This is my personal portfolio developed with React and Vite, with the aim of pre
 - CSS: Style language for web content.
 - TailwindCSS: Framework utility for fast and responsive styling.
 - JavaScript (ES6+): Programming language used to add interactivity to the site.
+- TypeScript: An internationalization context (i18n) was created in React to manage language switching and dynamic translation of texts between Portuguese and English.
 - Node.js: Server-side JavaScript execution environment used to create scalable and performant backend applications.
 - React: JavaScript library for building user interfaces.
 - Vite: Ferramenta de build rápida e moderna para projetos front-end.
