@@ -54,12 +54,12 @@ export default function Header() {
       id: "resume",
       label: translate("header.resume"),
     }
-  ]
+  ];
 
   return (
-    <header className={`rounded-[2px] flex w-full h-14 lg:h-20 justify-center items-center z-10 shadow-[0_2px_5px_rgba(0,0,0,0.3)] text-gray-50 transition-all duration-300
+    <header className={`rounded-[2px] flex h-14 lg:h-20 w-[calc(100%-2rem)] justify-center items-center z-10 shadow-[0_2px_5px_rgba(0,0,0,0.3)] text-gray-50 transition-all duration-300
       ${isMenuOpen ? "h-screen bg-black" : ""}
-      ${isHeaderFixed ? "fixed top-0 bg-black/90 w-[calc(100%-2rem)] m-4" : "relative bg-black/50"}`}>
+      ${isHeaderFixed ? "fixed top-0 bg-black/90 m-4" : "relative bg-black/50 w-full"}`}>
       <nav>
         <button
           onClick={toggleMenu}
