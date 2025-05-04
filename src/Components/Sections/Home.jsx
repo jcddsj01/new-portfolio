@@ -7,7 +7,7 @@ function Home() {
 
   return (
     <section className="flex justify-center items-center flex-col mt-16 mb-32">
-      <div className="w-40 h-48 overflow-hidden rounded-full shadow-[0_10px_20px_rgba(0,0,0,1)] animate-[profile-float_5s_ease-in-out_infinite]">
+      <div className="w-40 h-40 md:w-48 md:h-48 overflow-hidden rounded-full shadow-[0_10px_20px_rgba(0,0,0,1)] animate-[profile-float_5s_ease-in-out_infinite]">
         <img
           src={logoPerfil}
           alt="Foto de perfil"

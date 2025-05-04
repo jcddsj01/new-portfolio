@@ -22,8 +22,12 @@ function Projects() {
       link: "https://github.com/jcddsj01/app-icode-box"
     },
     {
-      image: LoadProjectImage('calculo-do-imc'),
-      link: "https://github.com/jcddsj01/calculo-imc"
+      image: LoadProjectImage('click-mercado'),
+      link: "https://github.com/jcddsj01/app-click-mercado"
+    },
+    {
+      image: LoadProjectImage('gerenciador-de-financas'),
+      link: "https://github.com/jcddsj01/gerenciador-financas"
     },
     {
       image: LoadProjectImage('calculadora-de-juros-compostos'),
@@ -34,8 +38,8 @@ function Projects() {
       link: "https://github.com/jcddsj01/previsao-tempo"
     },
     {
-      image: LoadProjectImage('conversor-de-moedas'),
-      link: "https://github.com/jcddsj01/conversor-moedas"
+      image: LoadProjectImage('calculo-do-imc'),
+      link: "https://github.com/jcddsj01/calculo-imc"
     },
     {
       image: LoadProjectImage('formulario-com-validacao'),
@@ -62,8 +66,8 @@ function Projects() {
       link: "https://github.com/jcddsj01/site-it-solutions"
     },
     {
-      image: LoadProjectImage('gerenciador-de-financas'),
-      link: "https://github.com/jcddsj01/gerenciador-financas"
+      image: LoadProjectImage('conversor-de-moedas'),
+      link: "https://github.com/jcddsj01/conversor-moedas"
     },
   ];
 
