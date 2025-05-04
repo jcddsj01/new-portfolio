@@ -1,8 +1,16 @@
 # Portfólio Pessoal - José Carlos
-Portfólio criado com React + Vite para apresentar habilidades, trajetória profissional e contatos como desenvolvedor fullstack júnior.
 
 ## Descrição
 Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de apresentar minhas habilidades como desenvolvedor fullstack júnior. Através dele, você pode conhecer um pouco sobre mim, minhas competências técnicas e formas de contato.
+
+## O que é esse Portfólio ?
+É um site onde apresento meus projetos pessoais, ele conta com um botão para alternar entre os idiomas Português e Inglês. Nele, você encontrará informações sobre as empresas onde já trabalhei, minhas habilidades técnicas — incluindo Hard-Skills e Soft- Skills, minha formação acadêmica e um formulário integrado à API oficial do WhatsApp para facilitar o contato. Há também uma seção exclusiva para download do meu currículo, além de um resumo completo da minha trajetória profissional.
+
+## Objetivos:
+- Mostrar minhas habilidades técnicas com React, componentização, hooks, rotas, estilização com Tailwind CSS, e mais.
+- Aplicar princípios de Clean Code, organização de pastas, e manutenção de estados com clareza.
+- Ajudar iniciantes com códigos simples, legíveis e prontos para estudo.
+- Apresentar meu estilo de trabalho para recrutadores e empresas de tecnologia.
 
 ## Funcionalidades
 - [x] Este portfólio conta com um botão de alternância de idioma, permitindo uma excelente experiência tanto em Português (Brasil) quanto em Inglês.
@@ -10,7 +18,7 @@ Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de 
 - [x] Sessão com habilidades técnicas Frontend, Backend e Banco de Dados.
 - [x] Sessão com uma galeria de projetos com descrições breves e um botão de acesso que redireciona diretamente para o site de cada projeto.
 - [x] Sessão para download do meu currículo, acompanhado de um breve resumo sobre minha trajetória profissional e objetivos na área de tecnologia. 
-- [x] Sessão do formulário que permite enviar mensagens diretamente pelo WhatsApp com dados personalizados, utilizando a API oficial do WhatsApp..
+- [x] Sessão do formulário que permite enviar mensagens diretamente pelo WhatsApp com dados personalizados, utilizando a API oficial do WhatsApp.
 - [x] Layout responsivo para Desktop, Tablet e Mobile.
 
 ## Tecnologias Utilizadas
@@ -70,19 +78,21 @@ http://localhost:5173
 ```
 
 ## 📁 Estrutura de Pastas
-|---| public<br>
-|-----| curriculo<br>
-|-----| favicon<br>
-|-----| screenshots<br>
-|---| src<br>
-|-----| assets<br>
-|--------| language-flags<br>
-|--------| profile<br>
-|--------| projects<br>
-|--------| skills<br>
-|-----| Components<br>
-|-------| Sections<br>
-|-----| i18n<br>
+📦public
+ ┣ 📂favicon
+ ┣ 📂resume
+ ┗ 📂screenshots
+ ┃ ┣ 📂english
+ ┃ ┗ 📂portuguese
+ 📦src
+ ┣ 📂assets
+ ┃ ┣ 📂languages-flags
+ ┃ ┣ 📂profile
+ ┃ ┣ 📂projects
+ ┃ ┗ 📂skills
+ ┣ 📂Components
+ ┃ ┣ 📂Sections
+ ┣ 📂i18n
 
 ## Deploy
 O projeto está disponível online:
@@ -99,10 +109,18 @@ MIT License. Você pode usar este projeto como referência para criar o seu pró
 ---
 
 # Personal Portfolio - José Carlos
-Portfolio created with React + Vite to present skills, professional career and contacts as a junior fullstack developer.
 
 ## Description
 This is my personal portfolio developed with React and Vite, with the aim of presenting my skills as a junior fullstack developer. Through it, you can learn a little about me, my technical skills and how to contact me.
+
+## What is this Portfolio?
+This is a website where I present my personal projects. It has a button to switch between Portuguese and English. On it, you'll find information about the companies I've worked for, my technical skills - including Hard-Skills and Soft-Skills, my academic background and a form integrated with the official WhatsApp API to make it easier to contact me. There is also an exclusive section for downloading my CV, as well as a complete summary of my professional career.
+
+## Objectives:
+- Show my technical skills with React, componentization, hooks, routes, styling with Tailwind CSS, and more.
+- Apply Clean Code principles, folder organization, and state maintenance clearly.
+- Helping beginners with simple, readable and ready-to-study code.
+- Presenting my work style to recruiters and technology companies.
 
 ## Features
 - [x] This portfolio has a language switcher, allowing for an excellent experience in both Portuguese (Brazil) and English.
@@ -170,19 +188,21 @@ http://localhost:5173
 ```
 
 ## 📁 Folder Structure
-|---| public<br>
-|-----| curriculo<br>
-|-----| favicon<br>
-|-----| screenshots<br>
-|---| src<br>
-|-----| assets<br>
-|--------| language-flags<br>
-|--------| profile<br>
-|--------| projects<br>
-|--------| skills<br>
-|-----| Components<br>
-|-------| Sections<br>
-|-----| i18n<br>
+📦public
+ ┣ 📂favicon
+ ┣ 📂resume
+ ┗ 📂screenshots
+ ┃ ┣ 📂english
+ ┃ ┗ 📂portuguese
+ 📦src
+ ┣ 📂assets
+ ┃ ┣ 📂languages-flags
+ ┃ ┣ 📂profile
+ ┃ ┣ 📂projects
+ ┃ ┗ 📂skills
+ ┣ 📂Components
+ ┃ ┣ 📂Sections
+ ┣ 📂i18n
 
 ## Deploy
 The project is available online:
