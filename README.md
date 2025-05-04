@@ -78,21 +78,21 @@ http://localhost:5173
 ```
 
 ## 📁 Estrutura de Pastas
-📦public
- ┣ 📂favicon
- ┣ 📂resume
- ┗ 📂screenshots
- ┃ ┣ 📂english
- ┃ ┗ 📂portuguese
- 📦src
- ┣ 📂assets
- ┃ ┣ 📂languages-flags
- ┃ ┣ 📂profile
- ┃ ┣ 📂projects
- ┃ ┗ 📂skills
- ┣ 📂Components
- ┃ ┣ 📂Sections
- ┣ 📂i18n
+📦public<br>
+ ┣ 📂favicon<br>
+ ┣ 📂resume<br>
+ ┗ 📂screenshots<br>
+ ┃ ┣ 📂english<br>
+ ┃ ┗ 📂portuguese<br>
+ 📦src<br>
+ ┣ 📂assets<br>
+ ┃ ┣ 📂languages-flags<br>
+ ┃ ┣ 📂profile<br>
+ ┃ ┣ 📂projects<br>
+ ┃ ┗ 📂skills<br>
+ ┣ 📂Components<br>
+ ┃ ┣ 📂Sections<br>
+ ┣ 📂i18n<br>
 
 ## Deploy
 O projeto está disponível online:
@@ -188,21 +188,21 @@ http://localhost:5173
 ```
 
 ## 📁 Folder Structure
-📦public
- ┣ 📂favicon
- ┣ 📂resume
- ┗ 📂screenshots
- ┃ ┣ 📂english
- ┃ ┗ 📂portuguese
- 📦src
- ┣ 📂assets
- ┃ ┣ 📂languages-flags
- ┃ ┣ 📂profile
- ┃ ┣ 📂projects
- ┃ ┗ 📂skills
- ┣ 📂Components
- ┃ ┣ 📂Sections
- ┣ 📂i18n
+📦public<br>
+ ┣ 📂favicon<br>
+ ┣ 📂resume<br>
+ ┗ 📂screenshots<br>
+ ┃ ┣ 📂english<br>
+ ┃ ┗ 📂portuguese<br>
+ 📦src<br>
+ ┣ 📂assets<br>
+ ┃ ┣ 📂languages-flags<br>
+ ┃ ┣ 📂profile<br>
+ ┃ ┣ 📂projects<br>
+ ┃ ┗ 📂skills<br>
+ ┣ 📂Components<br>
+ ┃ ┣ 📂Sections<br>
+ ┣ 📂i18n<br>
 
 ## Deploy
 The project is available online:
