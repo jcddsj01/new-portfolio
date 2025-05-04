@@ -4,7 +4,7 @@
 Este é meu portfólio pessoal desenvolvido com React e Vite, com o objetivo de apresentar minhas habilidades como desenvolvedor fullstack júnior. Através dele, você pode conhecer um pouco sobre mim, minhas competências técnicas e formas de contato.
 
 ## O que é esse Portfólio ?
-É um site onde apresento meus projetos pessoais, ele conta com um botão para alternar entre os idiomas Português e Inglês. Nele, você encontrará informações sobre as empresas onde já trabalhei, minhas habilidades técnicas — incluindo Hard-Skills e Soft- Skills, minha formação acadêmica e um formulário integrado à API oficial do WhatsApp para facilitar o contato. Há também uma seção exclusiva para download do meu currículo, além de um resumo completo da minha trajetória profissional.
+É um site onde apresento meus projetos pessoais, ele conta com um botão para alternar entre os idiomas Português e Inglês. Nele, você encontrará informações sobre as empresas onde já trabalhei, minhas habilidades técnicas — incluindo Hard-Skills e Soft-Skills, minha formação acadêmica e um formulário integrado à API oficial do WhatsApp para facilitar o contato. Há também uma seção exclusiva para download do meu currículo, além de um resumo completo da minha trajetória profissional.
 
 ## Objetivos:
 - Mostrar minhas habilidades técnicas com React, componentização, hooks, rotas, estilização com Tailwind CSS, e mais.
